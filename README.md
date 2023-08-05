@@ -77,11 +77,7 @@ The tool is developed for circRNA-RBP interaction sites identification using dee
 - Gensim 3.8.3
 - Ubuntu 18.04 (64-bit)
 - 
-# Usage
 
-command: python fivefold.py 
-
-You can train the model of 5-fold cross-validation with a very simple way by the command blow:  
 
 
  If you have any suggestions or questions, please email me at *yunzeer@gmail.com*.
