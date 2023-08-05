@@ -59,8 +59,12 @@ Pse-in-one coda package
 
 A package for sequence feature extraction.
 
-3.supplements
-
+3.supplements file 
+Additional file1: Three methods to identify circRNA results
+Additional file2: Results of sequence alignment
+Additional file3: shap result graph for feature analysis
+Additional file4: Prediction of miRNA interaction sites
+Additional file5: GO and KEGG results of SARS-CoV-1/2 circRNA
 The tool is developed for circRNA-RBP interaction sites identification using deep hierarchical network
 ![image](https://github.com/nmt315320/GMNN2CD/blob/f40f59746ae71cbba63b9d411f5b31bb9371ef66/Architecture.png)
 # Requirements
