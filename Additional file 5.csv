@@ -1,0 +1,173 @@
+GO Category,,p-value,#genes,,#miRNAs,,#genes
+cellular nitrogen compound metabolic process,200.1312471,7.39E-201,73,BP,73,,2894
+biosynthetic process,115.263534,5.45E-116,73,BP,73,,2355
+cellular protein modification process,96.04773838,8.96E-97,72,BP,72,,1451
+small molecule metabolic process,78.34012871,4.57E-79,72,BP,72,,1400
+gene expression,75.08200084,8.28E-76,68,BP,68,,403
+neurotrophin TRK receptor signaling pathway,65.88107431,1.31E-66,69,BP,69,,206
+catabolic process,61.69081269,2.04E-62,71,BP,71,,1166
+viral process,57.21153783,6.14E-58,66,BP,66,,323
+"symbiosis, encompassing mutualism through parasitism",55.6917717,2.03E-56,66,BP,66,,355
+Fc-epsilon receptor signaling pathway,42.86056865,1.38E-43,65,BP,65,,125
+organelle,59.03574037,9.21E-60,73,CC,,,5859
+protein complex,49.07727454,8.37E-50,73,CC,67,,2143
+cellular_component,39.60906489,2.46E-40,73,CC,71,,9241
+cytosol,35.98716278,1.03E-36,72,CC,71,,1545
+nucleoplasm,30.7878124,1.63E-31,71,CC,62,,694
+platelet alpha granule lumen,6.335358024,4.62E-07,30,CC,70,,29
+microtubule organizing center,6.335358024,4.62E-07,70,CC,67,,251
+lysosomal lumen,3.465907866,0.000342052,36,CC,71,,35
+vacuole,1.538552754,0.028936583,61,CC,70,,151
+cell-cell junction,4,0.0001,22,CC,66,,22
+ion binding,194.4293013,3.72E-195,73,MF,66,,3597
+molecular_function,45.59204883,2.56E-46,73,MF,69,,9160
+nucleic acid binding transcription factor activity,45.02737115,9.39E-46,72,MF,52,,627
+protein binding transcription factor activity,40.6090663,2.46E-41,70,MF,65,,335
+enzyme binding,39.95353901,1.11E-40,71,MF,59,,773
+cytoskeletal protein binding,21.46082326,3.46E-22,69,MF,68,,452
+enzyme regulator activity,14.73502786,1.84E-15,70,MF,71,,458
+RNA binding,6.271023841,5.36E-07,71,MF,54,,929
+transmembrane transporter activity,6.242174317,5.73E-07,70,MF,54,,539
+"protein binding, bridging",1.751832017,0.017707938,64,MF,52,,83
+,,,,,56,,
+cellular protein metabolic process,,2.40E-43,295,,66,,295
+cellular component assembly,,4.69E-41,774,,62,,774
+nucleobase-containing compound catabolic process,,2.02E-37,548,,48,,548
+post-translational protein modification,,8.34E-35,127,,73,,127
+blood coagulation,,2.68E-34,285,,69,,285
+mitotic cell cycle,,2.70E-30,238,,56,,238
+macromolecular complex assembly,,2.09E-28,513,,71,,513
+response to stress,,3.41E-28,1224,,53,,1224
+membrane organization,,9.89E-25,343,,49,,343
+epidermal growth factor receptor signaling pathway,,1.26E-24,149,,56,,149
+cell death,,9.35E-23,525,,63,,525
+Fc-gamma receptor signaling pathway involved in phagocytosis,,4.77E-20,56,,52,,56
+platelet activation,,5.94E-20,134,,49,,134
+cellular lipid metabolic process,,6.33E-20,99,,48,,99
+synaptic transmission,,1.19E-17,250,,72,,250
+protein complex assembly,,3.18E-17,425,,53,,425
+toll-like receptor TLR1:TLR2 signaling pathway,,8.81E-17,49,,59,,49
+toll-like receptor TLR6:TLR2 signaling pathway,,8.81E-17,49,,60,,49
+toll-like receptor 10 signaling pathway,,5.27E-16,46,,45,,46
+TRIF-dependent toll-like receptor signaling pathway,,4.34E-15,50,,57,,50
+fibroblast growth factor receptor signaling pathway,,5.62E-15,127,,58,,127
+mRNA metabolic process,,7.52E-15,121,,60,,121
+cellular component disassembly involved in execution phase of apoptosis,,1.10E-14,37,,56,,37
+biological_process,,3.09E-14,8782,,54,,8782
+cell-cell signaling,,4.00E-14,363,,55,,363
+MyD88-independent toll-like receptor signaling pathway,,1.28E-13,52,,38,,52
+DNA metabolic process,,1.94E-13,419,,48,,419
+toll-like receptor 9 signaling pathway,,2.77E-13,50,,34,,50
+water-soluble vitamin metabolic process,,4.07E-13,49,,47,,49
+glycosaminoglycan metabolic process,,4.40E-13,69,,60,,69
+RNA metabolic process,,8.16E-13,136,,44,,136
+toll-like receptor 5 signaling pathway,,1.28E-12,46,,66,,46
+vitamin metabolic process,,2.47E-12,52,,32,,52
+cell junction assembly,,4.78E-12,46,,64,,46
+immune system process,,5.14E-12,816,,25,,816
+extracellular matrix disassembly,,5.40E-12,71,,34,,71
+phosphatidylinositol-mediated signaling,,8.73E-12,91,,46,,91
+cell junction organization,,1.31E-11,99,,29,,99
+platelet degranulation,,1.66E-11,50,,56,,50
+protein N-linked glycosylation via asparagine,,3.00E-11,66,,60,,66
+toll-like receptor 4 signaling pathway,,3.08E-11,63,,56,,63
+toll-like receptor signaling pathway,,7.72E-11,71,,64,,71
+toll-like receptor 3 signaling pathway,,1.55E-10,52,,63,,52
+toll-like receptor 2 signaling pathway,,3.71E-10,50,,57,,50
+energy reserve metabolic process,,7.70E-10,63,,46,,63
+activation of signaling protein activity involved in unfolded protein response,,1.20E-08,41,,54,,41
+glycerophospholipid biosynthetic process,,2.78E-08,53,,57,,53
+O-glycan processing,,3.65E-08,36,,69,,36
+stress-activated MAPK cascade,,3.99E-08,37,,36,,37
+transcription initiation from RNA polymerase II promoter,,4.43E-08,127,,38,,127
+inositol phosphate metabolic process,,7.69E-08,30,,71,,30
+extracellular matrix organization,,8.39E-08,205,,70,,205
+"nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway",,8.67E-08,28,,55,,28
+insulin receptor signaling pathway,,1.04E-07,103,,68,,103
+nucleotide-binding oligomerization domain containing signaling pathway,,1.27E-07,19,,34,,19
+nucleobase-containing small molecule metabolic process,,1.83E-07,40,,48,,40
+regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle,,2.68E-07,43,,53,,43
+hexose transport,,3.68E-07,26,,45,,26
+phospholipid metabolic process,,4.02E-07,96,,38,,96
+chromatin organization,,4.43E-07,76,,42,,76
+G2/M transition of mitotic cell cycle,,4.48E-07,86,,29,,86
+generation of precursor metabolites and energy,,7.10E-07,171,,46,,171
+sulfur compound metabolic process,,7.96E-07,149,,47,,149
+apoptotic signaling pathway,,8.69E-07,81,,40,,81
+positive regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle,,8.81E-07,41,,42,,41
+xenobiotic metabolic process,,9.70E-07,75,,72,,75
+MyD88-dependent toll-like receptor signaling pathway,,1.47E-06,55,,31,,55
+innate immune response,,1.57E-06,362,,34,,362
+chondroitin sulfate metabolic process,,3.32E-06,30,,61,,30
+termination of RNA polymerase II transcription,,5.15E-06,29,,44,,29
+axon guidance,,5.98E-06,248,,26,,248
+homeostatic process,,1.21E-05,407,,55,,407
+anatomical structure morphogenesis,,1.54E-05,63,,73,,63
+cell motility,,1.60E-05,286,,30,,286
+mRNA 3'-end processing,,1.89E-05,26,,16,,26
+activation of phospholipase C activity,,2.25E-05,40,,48,,40
+cell-cell junction organization,,3.12E-05,50,,47,,50
+phosphatidylinositol biosynthetic process,,4.68E-05,39,,55,,39
+regulation of transcription from RNA polymerase II promoter in response to hypoxia,,4.98E-05,20,,60,,20
+negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle,,6.21E-05,36,,44,,36
+keratan sulfate biosynthetic process,,6.26E-05,18,,65,,18
+intrinsic apoptotic signaling pathway,,8.10E-05,42,,43,,42
+viral life cycle,,9.00E-05,53,,24,,53
+regulation of cellular amino acid metabolic process,,0.000139278,30,,27,,30
+post-Golgi vesicle-mediated transport,,0.000198874,30,,55,,30
+vesicle-mediated transport,,0.000206667,514,,60,,514
+keratan sulfate metabolic process,,0.000234802,19,,23,,19
+positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway,,0.000234802,19,,68,,19
+protein targeting,,0.000286016,149,,57,,149
+"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",,0.000307805,35,,13,,35
+JAK-STAT cascade involved in growth hormone signaling pathway,,0.000315258,17,,28,,17
+cellular component movement,,0.000321327,60,,39,,60
+"transcription, DNA-templated",,0.000371323,1256,,66,,1256
+cellular response to glucagon stimulus,,0.000580758,24,,50,,24
+long-chain fatty-acyl-CoA biosynthetic process,,0.000616557,12,,31,,12
+"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",,0.000616557,40,,22,,40
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process,,0.000620774,45,,22,,45
+leukocyte migration,,0.000626932,59,,32,,59
+protein maturation,,0.00064282,105,,58,,105
+collagen catabolic process,,0.000759271,45,,17,,45
+nucleocytoplasmic transport,,0.001093767,184,,31,,184
+adherens junction organization,,0.001120226,28,,52,,28
+regulation of defense response to virus by virus,,0.001386507,16,,28,,16
+regulation of glucose transport,,0.001479854,18,,17,,18
+ribonucleoprotein complex assembly,,0.001559443,77,,15,,77
+G1/S transition of mitotic cell cycle,,0.001826249,95,,39,,95
+activation of protein kinase A activity,,0.002514033,12,,24,,12
+cytoskeleton organization,,0.002818834,327,,50,,327
+regulation of small GTPase mediated signal transduction,,0.003974776,109,,20,,109
+pyrimidine nucleoside catabolic process,,0.004288496,10,,29,,10
+negative regulation of type I interferon production,,0.004288496,22,,31,,22
+regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion,,0.005417656,17,,68,,17
+nervous system development,,0.005417656,230,,30,,230
+antigen processing and presentation of exogenous peptide antigen via MHC class II,,0.007000182,59,,41,,59
+blood circulation,,0.007760335,26,,12,,26
+pyrimidine nucleobase metabolic process,,0.008259766,16,,28,,16
+regulation of rhodopsin mediated signaling pathway,,0.008259766,16,,43,,16
+positive regulation of muscle cell differentiation,,0.009532857,19,,34,,19
+cofactor metabolic process,,0.009773762,115,,18,,115
+interaction with host,,0.010302699,18,,26,,18
+triglyceride biosynthetic process,,0.010389373,29,,18,,29
+muscle cell differentiation,,0.010389373,29,,,,29
+C-terminal protein lipidation,,0.011795873,16,,,,16
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,,0.012137565,11,,,,11
+ncRNA metabolic process,,0.013080233,13,,,,13
+nuclear-transcribed mRNA poly(A) tail shortening,,0.016053643,22,,,,22
+cell communication by electrical coupling involved in cardiac conduction,,0.016249565,9,,,,9
+muscle contraction,,0.019045369,62,,,,62
+branched-chain amino acid catabolic process,,0.019057841,14,,,,14
+glutamate secretion,,0.023428984,16,,,,16
+'de novo' posttranslational protein folding,,0.023428984,21,,,,21
+cell proliferation,,0.025600731,320,,,,320
+mitotic nuclear envelope disassembly,,0.026334068,19,,,,19
+positive regulation of type I interferon production,,0.026499029,31,,,,31
+sulfur amino acid metabolic process,,0.027117504,14,,,,14
+regulation of nitric-oxide synthase activity,,0.027117504,14,,,,14
+transcription elongation from RNA polymerase II promoter,,0.027575436,39,,,,39
+dolichol-linked oligosaccharide biosynthetic process,,0.027684368,23,,,,23
+glutathione derivative biosynthetic process,,0.02870147,13,,,,13
+intracellular transport of virus,,0.03586897,11,,,,11
+"nucleotide-excision repair, DNA damage removal",,0.042152074,13,,,,13
