@@ -37,16 +37,22 @@ usage: tsnepro [-h] -i INFILE -o OUTFILE [-l LAYOUT] [-d DPI]
 Visualzes the features based on t-sne in a 2D feature space
 
 optional arguments:
+
   -h, --help            show this help message and exit
+  
   -i INFILE, --infile INFILE
                         The input file should be csv format, and multiple file
                         should be separated by commas
+                        
   -o OUTFILE, --outfile OUTFILE
                         The name of output picture
+                        
   -l LAYOUT, --layout LAYOUT
                         The layout of subplots, please input row,column
                         number, default 1,1
+                        
   -d DPI, --dpi DPI     The dpi of output picture, default is 300dpi
+  
   example:python3 tsne_pro.py -i test1.csv -o test.png
 
 Pse-in-one coda package
