@@ -7,19 +7,31 @@ the coronaviruses SARS-CoV-1 and SARS-CoV-2 (SARS-CoV-1/2) that emerged in recen
 
 Files: 
 1.data
+
 SARS-CoV-1/2 dataset:SARS_coronavirus_FRA.fasta  SAR-Cov-1/2 sequence dataset;
+
 2.code
+
 shapexample.py  
+
 It is used for interpretable analysis of features and can replace its own model. 
+
 usage:python shapexample
+
 shap.summary_plot  Important feature ranking
 
 csv2visual.py
+
 The important features are analyzed and the violin diagram is drawn.
+
 tsne_pro.py
+
 Feature dimensionality reduction using t-SNE.
+
 Pse-in-one coda package
+
 A package for sequence feature extraction.
+
 3.supplements
 
 The tool is developed for circRNA-RBP interaction sites identification using deep hierarchical network
