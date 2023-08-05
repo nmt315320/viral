@@ -8,7 +8,9 @@ the coronaviruses SARS-CoV-1 and SARS-CoV-2 (SARS-CoV-1/2) that emerged in recen
 Files: 
 1.data
 
-SARS-CoV-1/2 dataset:SARS_coronavirus_FRA.fasta  SAR-Cov-1/2 sequence dataset;
+SARS-CoV-1/2 dataset:SARS_coronavirus_FRA.fasta  
+
+SAR-Cov-1/2 sequence dataset;
 
 2.code
 
