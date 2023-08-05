@@ -18,7 +18,7 @@ shapexample.py
 
 It is used for interpretable analysis of features and can replace its own model. 
 
-usage:python shapexample
+usage: python shapexample.py
 
 shap.summary_plot  Important feature ranking
 
@@ -26,9 +26,28 @@ csv2visual.py
 
 The important features are analyzed and the violin diagram is drawn.
 
+usage: python csv2visual.py -i intput.csv -o 1.png -n 2
+
 tsne_pro.py
 
 Feature dimensionality reduction using t-SNE.
+
+usage: tsnepro [-h] -i INFILE -o OUTFILE [-l LAYOUT] [-d DPI]
+
+Visualzes the features based on t-sne in a 2D feature space
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INFILE, --infile INFILE
+                        The input file should be csv format, and multiple file
+                        should be separated by commas
+  -o OUTFILE, --outfile OUTFILE
+                        The name of output picture
+  -l LAYOUT, --layout LAYOUT
+                        The layout of subplots, please input row,column
+                        number, default 1,1
+  -d DPI, --dpi DPI     The dpi of output picture, default is 300dpi
+  example:python3 tsne_pro.py -i test1.csv -o test.png
 
 Pse-in-one coda package
 
