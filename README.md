@@ -7,34 +7,33 @@ the coronaviruses SARS-CoV-1 and SARS-CoV-2 (SARS-CoV-1/2) that emerged in recen
 
 Files: 
 1.data
-SARS-CoV-1/2 dataset:;
+SARS-CoV-1/2 dataset:SARS_coronavirus_FRA.fasta  SAR-Cov-1/2 sequence dataset;
 2.code
-similarity1.py
+shapexample.py  
+It is used for interpretable analysis of features and can replace its own model. 
+usage:python shapexample
+shap.summary_plot  Important feature ranking
 
-similarity1.py
-
-association_matrix3.py
-
-gaussianSimilarity4.py
-
-descriptor5.py
-
-buildTrainset6.py
-
-mmodels.py
-
-fivefold.py
+csv2visual.py
+The important features are analyzed and the violin diagram is drawn.
+tsne_pro.py
+Feature dimensionality reduction using t-SNE.
+Pse-in-one coda package
+A package for sequence feature extraction.
 3.supplements
 
 The tool is developed for circRNA-RBP interaction sites identification using deep hierarchical network
 ![image](https://github.com/nmt315320/GMNN2CD/blob/f40f59746ae71cbba63b9d411f5b31bb9371ef66/Architecture.png)
 # Requirements
 - Python 3.7 (64-bit)
+- shap
+- matplotlib
 - Keras 2.2.0 in Python
 - TensorFlow-GPU 1.14.0 in Python
 - Numpy 1.18.0 in Python
 - Gensim 3.8.3
 - Ubuntu 18.04 (64-bit)
+- 
 # Usage
 
 command: python fivefold.py 
